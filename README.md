@@ -3,9 +3,9 @@
 
 ## Requirements
 
-..* Python (3.7)
-..* Tensorflow (2.0)
-..* OpenCV
+* Python (3.7)
+* Tensorflow (2.0)
+* OpenCV
 
 
 This code is to train a deep convolutional neural network to classify embryonic chicken heads.
